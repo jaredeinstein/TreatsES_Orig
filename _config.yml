@@ -23,6 +23,7 @@ include: ['_pages']
 # Used for Sitemap.xml and your RSS feed
 # url: https://jaredeinstein.github.io   changed to CNAME on 180215 1425
 # url: https://cedarlake.einsteinstudios.net
+# had to use this to get custom domain to project  https://stackoverflow.com/questions/46455900/subdomain-of-website-for-github-pages-project
 url: http://cedarlake.einsteinstudios.net
 
 # If you're hosting your site at a Project repository on GitHub pages
