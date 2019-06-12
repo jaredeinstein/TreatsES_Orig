@@ -3,6 +3,22 @@ name: Einstein Studios
 title: Cedar Lake
 description: Einstein Studios
 
+defaults:
+  -
+    scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+      
+# include the _pages directory
+include: ['_pages']
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 # url: https://jaredeinstein.github.io   changed to CNAME on 180215 1425
