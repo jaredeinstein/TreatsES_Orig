@@ -1,18 +1,18 @@
 ---
 permalink: index.html
-title: Cedar Lake - Einstein Studios
+title: Treats by Heather
 ---
 
-# Welcome to our Cedar Lake Apparel
+# Treats by Heather, for all your treat, cookie, and chocolate needs.
 
 <center>
 <br />
 <br />
-We have a few standard designs, such as these onesies<br />
-<img src="/assets/img/onesie_test.jpg" width="225" align="bottom">
+We can custom make your treats and cookies for baptisms, wedding and baby showers, graduations, or anything you need.<br />
+<img src="/assets/img/cookie_test.jpg" width="225" align="bottom">
 <br />
 <br />
-Or you can contact us to do a custom design.
+Please contact us at treats@einsteinstudios.net and we can get to work on your order today!!
 <br />
 <br />
 </center>
