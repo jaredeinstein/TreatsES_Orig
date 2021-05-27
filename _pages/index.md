@@ -3,7 +3,7 @@ permalink: index.html
 title: Treats by Heather
 ---
 
-# Treats by Heather, for all your treat, cookie, and chocolate needs.
+# Treats by Heather, for all your cookie needs.
 
 <center>
 <br />
