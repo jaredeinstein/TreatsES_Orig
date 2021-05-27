@@ -34,7 +34,7 @@ baseurl: ""
 
 # Jekyll theme
 #theme: jekyll-theme-merlot
-remote_theme: qwtel/hydejack
+remote_theme: hydecorp/hydejack
 
 # Set the Sass partials directory, as we're using @imports
 sass:
