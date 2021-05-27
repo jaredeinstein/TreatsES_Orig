@@ -8,7 +8,7 @@ title: Treats by Heather
 <center>
 <br />
 <br />
-We can custom make your treats and cookies for baptisms, wedding and baby showers, graduations, or anything you need.<br />
+We can custom make your treats and cookies for baptisms, weddings, baby and bridal showers, graduations, or anything you need.<br />
 <img src="/assets/img/cookie_test.jpg" width="225" align="bottom">
 <br />
 <br />
