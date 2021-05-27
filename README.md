@@ -1,4 +1,4 @@
-## Welcome to GitHub Project - Cedar Lake - Einstien Studios
+## Welcome to GitHub Project - Treats - Einstien Studios
 
 
-A place for customized Cedar Lake apparel and gifts.
+A place for all your treat, cookie, and chocolate needs.
