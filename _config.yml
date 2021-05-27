@@ -34,7 +34,7 @@ baseurl: ""
 
 # Jekyll theme
 #theme: jekyll-theme-merlot
-remote_theme: hydecorp/hydejack
+remote_theme: hydecorp/hydejack@v9.1.4
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -44,6 +44,9 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  
+plugins:
+  - jekyll-include-cache
 
 # Exclude these files from your production _site
 exclude:
